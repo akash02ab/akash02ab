@@ -54,8 +54,8 @@
     -   This is a website to view your favourite artist and tracks.
     -   Implemented search using a Spotify API and used REDUX for managing network calls and states.
 
-    ![screenshot](https://github.com/akash02ab/spotify-profile-view/blob/main/screenshots/home.png)
-    ![screenshot](https://github.com/akash02ab/spotify-profile-view/blob/main/screenshots/topartists.png)
+    ![screenshot](https://github.com/akash02ab/spotify-profile-view/blob/main/screenshots/home.jpeg)
+    ![screenshot](https://github.com/akash02ab/spotify-profile-view/blob/main/screenshots/artists.jpeg)
     [Repo](https://github.com/akash02ab/spotify-profile-view)
 
 -   **Movies Website**
