@@ -37,6 +37,8 @@
 ![testimonial](https://github.com/akash02ab/re-accordion/blob/main/screenshot/testimonial.jpeg)
 <br>
 [Repo](https://github.com/akash02ab/re-accordion/)
+<br>
+[Live Demo](https://zealous-visvesvaraya-b2e143.netlify.app/)
 
 ### Projects:
 
