@@ -34,6 +34,8 @@
     - From this project I learned about DOM manipulation in React.
 
 ![screenshot](https://github.com/akash02ab/re-accordion/blob/main/screenshot/screenshot.jpeg)
+![testimonial](https://github.com/akash02ab/re-accordion/blob/main/screenshot/testimonial.jpeg)
+<br>
 [Repo](https://github.com/akash02ab/re-accordion/)
 
 ### Projects:
@@ -46,8 +48,8 @@
     -   You can like a post, view other users’ profile and unfollow them if you want
 
     ![screenshot](https://github.com/akash02ab/social-media-frontend/blob/main/Screenshots/Home.jpeg)
-    ![testimonial](https://github.com/akash02ab/re-accordion/blob/main/screenshot/testimonial.jpeg)
     [Repo frontend](https://github.com/akash02ab/social-media-frontend)
+    <br>
     [Repo backend](https://github.com/akash02ab/social-media-api)
 
     <br>
