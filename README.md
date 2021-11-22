@@ -25,6 +25,17 @@
 
 <br>
 
+### Testimonials
+
+-   **VS Code Accordion**
+    - A React (typescript) project to mimic the behaviour of VS Code accordion which you can see in vscode explorer.
+    - Accordion is resizable and take and available height present in the explorer.
+    - The most challenging part was to calculate the height when more than 1 accordion are in open state.
+    - From this project I learned about DOM manipulation in React.
+
+![screenshot](https://github.com/akash02ab/re-accordion/blob/main/screenshot/screenshot.jpeg)
+[Repo](https://github.com/akash02ab/re-accordion/)
+
 ### Projects:
 
 -   **Social Media Website**
@@ -35,7 +46,9 @@
     -   You can like a post, view other users’ profile and unfollow them if you want
 
     ![screenshot](https://github.com/akash02ab/social-media-frontend/blob/main/Screenshots/Home.jpeg)
-    [Repo](https://github.com/akash02ab/social-media-frontend)
+    ![testimonial](https://github.com/akash02ab/re-accordion/blob/main/screenshot/testimonial.jpeg)
+    [Repo frontend](https://github.com/akash02ab/social-media-frontend)
+    [Repo backend](https://github.com/akash02ab/social-media-api)
 
     <br>
 
