@@ -2,14 +2,13 @@
 
 ## About me:
 
--   🔭 I’m currently working as a Full-Stack developer
--   🌱 I’m currently learning Sass
--   👯 I’m looking to collaborate on javascipt projects
--   🤔 I’m looking for help with FAANG interview questions
+-   🔭 I’m currently working as a Frontend developer
+-   🌱 I’m currently learning NextJs
+-   👯 I’m looking to collaborate on Javascript projects
+-   🤔 I’m looking for help with modern React development
 -   💬 Ask me about anything
 -   📫 How to reach me: [LinkedIn](linkedin.com/in/akash-banchhor-250639218)
--   😄 Pronouns: he/him
--   ⚡ Fun fact: I'm a potterhead
+-   ⚡ Fun fact: I'm a Potterhead
 
 ## Languages and Tools:
 
