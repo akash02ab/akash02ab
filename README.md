@@ -5,7 +5,7 @@
 -   🔭 I’m currently working as a Frontend developer
 -   🌱 I’m currently learning NextJs
 -   👯 I’m looking to collaborate on Javascript projects
--   🤔 I’m looking for help with modern React development
+-   🤔 I’m looking for help with modern NodeJS development
 -   💬 Ask me about anything
 -   📫 How to reach me: [LinkedIn](linkedin.com/in/akash-banchhor-250639218)
 -   ⚡ Fun fact: I'm a Potterhead
