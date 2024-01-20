@@ -91,8 +91,11 @@
 
 ### Github Stats:
 <a href="https://github.com/akash02ab/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akash02ab" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akash02ab&theme=react" />
 </a>
+<a href="https://github.com/akash02ab/github-readme-streak-stats">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash02ab&amp;theme=react&amp;hide_border=false" alt="github streak">
+</a>    
 <a href="https://github.com/akash02ab/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash02ab&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash02ab&layout=compact&langs_count=8&card_width=925&theme=react" />
 </a>
