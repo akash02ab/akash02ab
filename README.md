@@ -90,6 +90,9 @@
     [Repo](https://github.com/akash02ab/memory-game)
 
 ### Github Stats:
-
-<img align="left" alt="Akash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akash02ab&show_icons=true&hide_border=true" />
-<img align="left" alt="Akash's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash02ab" />
+<a href="https://github.com/akash02ab/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akash02ab" />
+</a>
+<a href="https://github.com/akash02ab/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash02ab&layout=compact&langs_count=8&card_width=320" />
+</a>
