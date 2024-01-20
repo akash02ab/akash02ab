@@ -91,7 +91,7 @@
 
 ### Github Stats:
 <a href="https://github.com/akash02ab/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akash02ab&theme=react&card_width=507.7px" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akash02ab&theme=react&card_width=480px" />
 </a>
 <a href="https://github.com/akash02ab/github-readme-streak-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash02ab&amp;theme=react&amp;hide_border=false;width=480" alt="github streak">
