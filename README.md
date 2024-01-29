@@ -7,7 +7,7 @@
 -   👯 I’m looking to collaborate on Javascript projects
 -   🤔 I’m looking for help with modern NodeJS development
 -   💬 Ask me about anything
--   📫 View my Experience and Projects: [Portfolio](https://akashbanchhor.netlify.app/")
+-   📫 View my Experience and Projects: [Portfolio](https://akashbanchhor.netlify.app/)
 -   ⚡ Fun fact: I'm a Potterhead
 
 ## Languages and Tools:
