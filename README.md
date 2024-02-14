@@ -3,7 +3,7 @@
 ## About me:
 
 -   🔭 I’m currently working as a Frontend developer
--   🌱 I like to contribute on Open-source projects
+-   🌱 I like to implement challenging design using css
 -   👯 I’m looking to collaborate on Javascript projects
 -   🤔 I’m looking for help with modern NodeJS development
 -   💬 Ask me about anything
